@@ -1,0 +1,22 @@
+{
+  "name": "transpile-jsx-using-your-own-custom-built-babel-plugin",
+  "version": "1.0.0",
+  "description": "[tried this](https://dev.to/pulkitnagpal/transpile-jsx-using-your-own-custom-built-babel-plugin-4888)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.1",
+    "@babel/preset-react": "^7.14.5",
+    "@types/react": "^17.0.16",
+    "babel": "^6.23.0"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.14.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
